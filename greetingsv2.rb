@@ -10,3 +10,4 @@ def lots_of_love
   puts kisses
 end
 
+lots_of_love
